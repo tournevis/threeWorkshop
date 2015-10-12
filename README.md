@@ -1,2 +1,3 @@
-# threeWorkshop
-repo init
+#Threejs workshop
+
+Starter from @vdaguenet
